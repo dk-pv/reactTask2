@@ -1,0 +1,14 @@
+body{
+  color: red;
+  font-style: italic;
+}
+.head{
+  background-color: white;
+  text-align: center;
+  font-size: xx-large;
+  font-style: normal;
+}
+.content{
+  background-color: black;
+  font-size: x-large;
+}
